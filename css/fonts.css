@@ -1,0 +1,18 @@
+@font-face {
+   font-family: 'SansRegular';
+   src: url('../fonts/OpenSans-Regular/OpenSans-Regular.eot');
+   src: url('../fonts/OpenSans-Regular/OpenSans-Regular.woff?#iefix') format('embedded-opentype'),
+   url('../fonts/OpenSans-Regular/OpenSans-Regular.woff') format('woff'),
+   url('../fonts/OpenSans-Regular/OpenSans-Regular.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+	font-family: 'BebasNeueBold';
+	src: url('../fonts/BebasNeueBold/bebas_neue_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/BebasNeueBold/bebas_neue_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/BebasNeueBold/bebas_neue_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/BebasNeueBold/bebas_neue_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/BebasNeueBold/bebas_neue_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/BebasNeueBold/bebas_neue_bold.svg#bebas_neue_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
